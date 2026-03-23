@@ -86,7 +86,7 @@ export default function UploadProgress({ sessionId, onReady }: UploadProgressPro
               </div>
               <span
                 className={
-                  isDone || stage === 'ready'
+                  isDone
                     ? 'text-sm text-gray-500 line-through'
                     : isActive
                     ? 'text-sm font-medium text-gray-900'
