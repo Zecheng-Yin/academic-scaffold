@@ -64,8 +64,8 @@ export default function AnnotatedText({ text, issues = [] }: AnnotatedTextProps)
             {/* Tooltip on hover */}
             <span className="absolute bottom-full left-0 mb-1 hidden group-hover:block z-10 w-56 bg-gray-900 text-white text-xs rounded-lg p-2 shadow-lg pointer-events-none">
               <span className="font-medium block mb-0.5">Suggested:</span>
-              {seg.suggestion}
-              {seg.reason && (
+              {('suggestion' in seg) && seg.suggestion}
+              {('reason' in seg) && seg.reason && (
                 <span className="block mt-1 text-gray-400">{seg.reason}</span>
               )}
             </span>
