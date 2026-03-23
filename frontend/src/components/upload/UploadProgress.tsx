@@ -100,7 +100,7 @@ export default function UploadProgress({ sessionId, onReady }: UploadProgressPro
         })}
       </div>
 
-      {stage === 'ready' && (
+      {isDone && (
         <p className="text-sm text-success font-medium">
           Your document is ready. Redirecting...
         </p>
