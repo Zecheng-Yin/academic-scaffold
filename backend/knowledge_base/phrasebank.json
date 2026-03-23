@@ -1,0 +1,283 @@
+{
+  "categories": [
+    {
+      "name": "Being Critical",
+      "phrases": [
+        "However, this approach fails to account for...",
+        "A significant limitation of this study is...",
+        "The evidence presented does not fully support...",
+        "This claim is not adequately substantiated by...",
+        "The methodology is flawed in that...",
+        "Contrary to the authors' claims...",
+        "This interpretation overlooks the fact that...",
+        "The findings must be treated with caution because...",
+        "The study does not address the issue of...",
+        "It is questionable whether...",
+        "The validity of this conclusion is undermined by...",
+        "The authors appear to have overlooked...",
+        "This argument is not convincing because...",
+        "The sample size is insufficient to...",
+        "There are several concerns regarding the methodology...",
+        "This explanation is problematic in that...",
+        "The data do not unambiguously support the conclusion that..."
+      ]
+    },
+    {
+      "name": "Classifying and Listing",
+      "phrases": [
+        "There are three main categories of...",
+        "These can be divided into two broad types:",
+        "The following factors have been identified:",
+        "Several key aspects can be distinguished:",
+        "This phenomenon can be classified as...",
+        "The literature identifies four main approaches:",
+        "First and foremost, ... Secondly, ... Finally,...",
+        "These fall into the following categories:",
+        "Among the most important are...",
+        "The main types of ... include...",
+        "A number of factors contribute to this:",
+        "Various forms of ... have been documented:",
+        "These can be broadly categorized as...",
+        "The principal elements are as follows:",
+        "Three distinct phases can be identified:",
+        "This can be broken down into the following components:"
+      ]
+    },
+    {
+      "name": "Comparing and Contrasting",
+      "phrases": [
+        "In contrast to previous work,...",
+        "Similarly, ... also demonstrates...",
+        "While ... and ... share certain characteristics, they differ in...",
+        "Unlike the approach proposed by..., the present study...",
+        "Both methods exhibit..., however,...",
+        "A key distinction between ... and ... lies in...",
+        "Compared to the baseline, the proposed method...",
+        "Whereas prior studies focused on..., this work...",
+        "On the other hand,...",
+        "In a similar vein,...",
+        "By contrast,...",
+        "Conversely,...",
+        "Despite this similarity,...",
+        "The two approaches differ markedly in terms of...",
+        "This is consistent with the findings of... who also found that...",
+        "These results align with those of..., but contradict those of..."
+      ]
+    },
+    {
+      "name": "Defining Terms",
+      "phrases": [
+        "... is defined as...",
+        "The term '...' refers to...",
+        "In the context of this study, '...' denotes...",
+        "For the purposes of this paper, '...' is understood to mean...",
+        "... can be broadly described as...",
+        "The concept of '...' encompasses...",
+        "By '...' we mean...",
+        "Throughout this paper, '...' is used to describe...",
+        "As used here, '...' signifies...",
+        "'...' is operationalized as...",
+        "The term is typically understood to refer to...",
+        "This phenomenon, hereafter referred to as '...',",
+        "... is generally taken to mean...",
+        "For definitional purposes,...",
+        "The notion of '...' is central to...",
+        "As defined by [Author], '...' involves..."
+      ]
+    },
+    {
+      "name": "Describing Methods",
+      "phrases": [
+        "Data were collected using...",
+        "The experiment was conducted under the following conditions:",
+        "Participants were randomly assigned to...",
+        "The study employed a mixed-methods approach...",
+        "In order to test this hypothesis,...",
+        "The following procedure was adopted:",
+        "A total of N samples were analyzed...",
+        "The model was trained on...",
+        "This study draws on data from...",
+        "The analysis was performed using...",
+        "Measurements were taken at intervals of...",
+        "The dataset consists of...",
+        "To evaluate the performance of..., we used...",
+        "The experimental setup is as follows:",
+        "All experiments were conducted using...",
+        "The architecture consists of...",
+        "We implemented the model using..."
+      ]
+    },
+    {
+      "name": "Describing Trends",
+      "phrases": [
+        "There has been a marked increase in...",
+        "The data show a steady decline in...",
+        "... has grown significantly over the past decade.",
+        "A sharp rise in ... was observed between...",
+        "The trend towards ... is clearly evident.",
+        "... has remained relatively stable.",
+        "A gradual improvement in ... was noted.",
+        "The rate of ... has fluctuated considerably.",
+        "There is a consistent upward trend in...",
+        "The figures reveal a dramatic fall in...",
+        "... peaked in ... before declining.",
+        "An exponential growth in ... has been documented.",
+        "The proportion of ... increased from X% to Y%.",
+        "... has shown a downward trajectory.",
+        "The pattern suggests a progressive shift towards...",
+        "Significant variation in ... was observed across..."
+      ]
+    },
+    {
+      "name": "Explaining Causality",
+      "phrases": [
+        "This can be attributed to...",
+        "The increase in ... is due to...",
+        "As a result of..., ... occurs.",
+        "This leads to...",
+        "Consequently,...",
+        "The primary cause of ... appears to be...",
+        "This effect stems from...",
+        "Therefore, it can be inferred that...",
+        "The mechanism by which ... affects ... is...",
+        "This is thought to be caused by...",
+        "It follows that...",
+        "As a consequence,...",
+        "This phenomenon is largely explained by...",
+        "The decline may be explained by...",
+        "Hence,...",
+        "The relationship between ... and ... suggests that...",
+        "This outcome is a direct result of..."
+      ]
+    },
+    {
+      "name": "Giving Examples",
+      "phrases": [
+        "For example,...",
+        "For instance,...",
+        "To illustrate,...",
+        "A case in point is...",
+        "This is exemplified by...",
+        "As an illustration,...",
+        "One such example is...",
+        "Consider the case of...",
+        "This is demonstrated by...",
+        "Notable examples include...",
+        "To take a concrete case,...",
+        "Such as...",
+        "This is particularly evident in...",
+        "A prominent example of this is...",
+        "As evidenced by...",
+        "This can be seen in the work of..."
+      ]
+    },
+    {
+      "name": "Presenting Results",
+      "phrases": [
+        "The results demonstrate that...",
+        "The findings indicate that...",
+        "The data reveal that...",
+        "The analysis shows that...",
+        "It was found that...",
+        "The results suggest that...",
+        "The experiment revealed that...",
+        "The evidence supports the claim that...",
+        "As shown in Table X,...",
+        "The model achieved X% accuracy on...",
+        "The proposed method outperforms the baseline by...",
+        "These results confirm that...",
+        "The evaluation demonstrates a significant improvement in...",
+        "The performance of the model was measured in terms of...",
+        "Notably, the results indicate...",
+        "As can be seen from Figure X,...",
+        "The quantitative results show..."
+      ]
+    },
+    {
+      "name": "Referring to Sources",
+      "phrases": [
+        "According to [Author],...",
+        "As [Author] argues,...",
+        "In the words of [Author],...",
+        "[Author] suggests that...",
+        "As noted by [Author],...",
+        "[Author] maintains that...",
+        "As discussed in [Source],...",
+        "[Author] has shown that...",
+        "Previous research has demonstrated that...",
+        "A number of studies have found that...",
+        "Research in this area has indicated that...",
+        "The work of [Author] demonstrates...",
+        "[Author] emphasizes that...",
+        "As pointed out by [Author],...",
+        "Following [Author],...",
+        "[Author] identifies ... as a key factor."
+      ]
+    },
+    {
+      "name": "Signalling Transition",
+      "phrases": [
+        "Having established ..., we now turn to...",
+        "This section examines...",
+        "Building on the above,...",
+        "In the following section,...",
+        "As outlined in the previous section,...",
+        "Turning now to...",
+        "The next section discusses...",
+        "With this in mind,...",
+        "Against this background,...",
+        "In light of these findings,...",
+        "The discussion now moves to...",
+        "Before proceeding, it is necessary to...",
+        "Having reviewed the literature, we now...",
+        "This brings us to the question of...",
+        "The foregoing analysis suggests that...",
+        "On the basis of the above,...",
+        "Taken together, these findings suggest..."
+      ]
+    },
+    {
+      "name": "Stating the Aim",
+      "phrases": [
+        "The aim of this study is to...",
+        "The purpose of this paper is to...",
+        "This study seeks to...",
+        "This paper aims to investigate...",
+        "The present research examines...",
+        "The objective of this work is to...",
+        "This paper sets out to...",
+        "The goal of this research is to...",
+        "In this paper, we propose...",
+        "This study is designed to...",
+        "We aim to demonstrate that...",
+        "The primary objective is to...",
+        "This work focuses on...",
+        "We seek to address the question of...",
+        "The research question guiding this study is...",
+        "This paper contributes to the understanding of..."
+      ]
+    },
+    {
+      "name": "Stating the Problem",
+      "phrases": [
+        "Despite significant advances in ..., it remains unclear...",
+        "A major challenge in ... is...",
+        "Little attention has been paid to...",
+        "There is a lack of research on...",
+        "The problem of ... has not been adequately addressed.",
+        "Existing approaches suffer from...",
+        "However, little is known about...",
+        "The question of ... remains unresolved.",
+        "This issue is particularly problematic because...",
+        "Previous studies have failed to consider...",
+        "There is a significant gap in the literature regarding...",
+        "To date, no study has examined...",
+        "This remains an open problem in the field.",
+        "The limitations of current methods include...",
+        "Prior work has not adequately addressed...",
+        "The lack of ... represents a significant obstacle to...",
+        "The field currently lacks a systematic understanding of..."
+      ]
+    }
+  ]
+}
