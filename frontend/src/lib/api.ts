@@ -1,7 +1,13 @@
-import type { EvaluationResponse, Step3EvaluationResponse } from '@/types/evaluation'
-import type { Step1Response, Step2Response, Step3Response } from '@/types/scaffold'
+//import type { EvaluationResponse, Step3EvaluationResponse } from '@/types/evaluation'
+//import type { Step1Response, Step2Response, Step3Response } from '@/types/scaffold'
 
-const BASE = '/api'
+//const BASE = '/api'
+import type { EvaluationResponse, Step3EvaluationResponse } from '@/types/evaluation'
+import type { Step2Response, Step3Response, Step1Response } from '@/types/scaffold'
+
+// 关键修改：如果配置了环境变量就用它，否则默认本地开发地址
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+const BASE = `${API_URL}/api`
 
 async function handleResponse<T>(res: Response): Promise<T> {
   if (!res.ok) {
